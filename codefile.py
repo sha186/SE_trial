@@ -1,4 +1,4 @@
-#this prohram returns the sum of digits in a number
+#this program returns the sum of digits in a number
 def getSum(n):  
     if(n < 0):
     	return -1     
